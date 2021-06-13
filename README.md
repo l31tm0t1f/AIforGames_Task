@@ -11,6 +11,10 @@ Main purpose of this project is to practice AI Behaviour Tree in Unreal Engine
 
 Use Unreal Engine 4.26 to open the project
 
-Introduction to the project: https://youtu.be/.............
+Introduction to the project: youtu.be/N-kRJEc1Vjg
 
 Siim Soonsein soonsein@tlu.ee
+
+
+
+
